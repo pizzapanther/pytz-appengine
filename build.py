@@ -8,7 +8,7 @@ import argparse
 
 PYTZ_OUTPUT = 'pytz'
 
-LATEST_OLSON = '2014.4'
+LATEST_OLSON = '2014.9'
 #
 # TODO: Slurp the latest URL from the pypi downloads page
 SRC_TEMPLATE = "https://pypi.python.org/packages/source/p/pytz/pytz-{}.zip"
